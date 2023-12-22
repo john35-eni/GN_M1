@@ -8,7 +8,7 @@
     "start": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "john35-eni",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
