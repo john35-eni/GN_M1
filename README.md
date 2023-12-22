@@ -1,5 +1,5 @@
 # GN_M1
-gestion de note projet fin d'année en M1
+gestion de note (projet fin d'année en M1)
 // pour lancer le projet backend
 cd backend
 // creer le fichier .env
@@ -7,5 +7,6 @@ cd backend
 npm install
 npm start
 // pour lancer le fichier frontend
+cd frontend
 npm install
 npm start
